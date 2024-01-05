@@ -1,11 +1,11 @@
 # Image_Cation_Generation_NLP
 
-Final Project - Group 6 - John O’Connell
+The final project for my natural language processing course
 
 The files included in this submission are:<br>
 -  GROUP6_feature_extractor.ipynb - The VGG19 feature extractor, included as a notebook file to enable running each piece separately<br>
 -  GROUP6_feature_extractor.py - The VGG19 feature extractor, included as a python file to run all at once<br>
--  Features.pkl - A pickle file of the dictionary created by the feature extractor<br>
+-  features.pkl - A pickle file of the dictionary created by the feature extractor<br>
 -  GROUP6_model_final.ipynb - The final model in notebook form. Can be run to replicate the results of this project<br>
 -  GROUP6_model_all_in.ipynb - This file is the model with additional code added for data collection and demonstration purposes<br>
 -  final_model.h5 - The final model used in the presentation and paper<br>
