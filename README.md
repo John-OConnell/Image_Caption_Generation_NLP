@@ -12,8 +12,8 @@ The files included in this submission are:<br>
 -  GROUP6_final_report<br>
 
 IMPORTANT:<br>
-In order to run the model successfully, you will need to download the Flickr8k dataset. The dataset can be found at the following link:
-https://www.kaggle.com/datasets/adityajn105/flickr8k
+In order to run the model successfully, you will need to download the Flickr8k dataset. The dataset can be found at the following link:<br>
+https://www.kaggle.com/datasets/adityajn105/flickr8k<br>
 Once downloaded, make sure the name of the directory containing the files is ‘flickr8k’. Place this ‘flickr8k’ directory in into a folder
 named 'data', and place this 'data' folder into the same folder as the code. If done correctly, the ‘data’ directory should contain a 
 subdirectory named 'flickr8k', and the 'flickr8k' subdirectory should contain two items - a file named ‘captions.txt’, and a subdirectory 
